@@ -7,3 +7,7 @@ So my son needs to learn and recongnize the letters in the US alphabet, and I wa
 ### Help Wated
 
 I definitely could use suggestions on best practice and just how to do this.
+
+
+### What I will post
+I will try to keep a log of everything; how I am doing, what I am doing, and any other one off items at twovi.com
