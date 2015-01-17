@@ -6,7 +6,7 @@ So my son needs to learn and recongnize the letters in the US alphabet, and I wa
 
 ### Help Wated
 
-I definitely could use suggestions on best practice and just how to do this.
+I definitely could use suggestions (since I am new to Go) on best practice and just how to do this.
 
 
 ### What I will post
